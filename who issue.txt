@@ -1,0 +1,10 @@
+1. video part
+2. pdf part
+3. not able to add the comment on own post
+4. not able to see the new post on the home page
+
+
+
+Modify
+
+1. reply tree upto three level
